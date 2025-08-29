@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "cpf": 12345678900,
+        "nome": "Kaio",
+        "sobrenome": "Zumbi",
+        "cidade": "Floresta",
+        "pais": "EUA",
+        "link": "https://www.webtoons.com/en/canvas/starving-for-attention/list?title_no=928708",
+        "imagem": "<img src='img/kaio.jpg' width='200px'>"
+    },
+    {
+        "id": 2,
+        "cpf": 21345678900,
+        "nome": "Shiro",
+        "sobrenome": "Humano",
+        "cidade": "Floresta",
+        "pais": "EUA",
+        "link": "https://www.webtoons.com/en/canvas/starving-for-attention/list?title_no=928708",
+        "imagem": "<img src='img/shiro.jpg' width='200px'>"
+    },
+    {
+        "id": 3,
+        "cpf": 81712345678, 
+        "nome": "Xie Lian",
+        "sobrenome": "Deus Marcial",
+        "cidade": "Templo Qiandeng",
+        "pais": "China",
+        "link": "https://tgcfbrasil.carrd.co/",
+        "imagem": "<img src='img/xielian.jpg' width='200px'>"
+    },
+    {
+        "id": 4,
+        "cpf": 80012345678,
+        "nome": "Hua Cheng ",
+        "sobrenome": "Chuva de sangue atingindo uma flor",
+        "cidade": "Cidade Fantasma",
+        "pais": "China",
+        "link": "https://tgcfbrasil.carrd.co/",
+        "imagem": "<img src='img/huacheng.jpg' width='200px'>"
+    },
+    {
+        "id": 5,
+        "cpf": 23123456789,
+        "nome": "Wei Wuxian",
+        "sobrenome": "Patriarca de Yiling",
+        "cidade": "Yunmeng",
+        "pais": "Lanling",
+        "link": "https://www.webnovel.com/pt/book/the-grandmaster-of-demonic-cultivation-(mo-dao-zu-shi)_16730874906144305/prolugue_44911649555013398",
+        "imagem": "<img src='img/weiwuxian.jpg' width='200px'>"
+    },
+    {
+        "id": 6,
+        "cpf": 13123456789,
+        "nome": "lan Zhan",
+        "sobrenome": "Hanguang",
+        "cidade": "Gusu Lan",
+        "pais": "Lanling",
+        "link": "https://www.webnovel.com/pt/book/the-grandmaster-of-demonic-cultivation-(mo-dao-zu-shi)_16730874906144305/prolugue_44911649555013398",
+        "imagem": "<img src='img/lanzhan.jpg' width='200px'>"
+    },
+    {
+        "id": 7,
+        "cpf": 20123456789,
+        "nome": "Shen Qingqiu",
+        "sobrenome": "Pepino Inigualável",
+        "cidade": "Pico Qing Jing",
+        "pais": "Qingjing",
+        "link": "https://www.webnovel.com/book/the-scum-villain's-self-saving-system-(mo-xiang-tong-xiu)_26532893805406405/chapter-1_71223872787106193",
+        "imagem": "<img src='img/shenqingqiu.jpg' width='200px'>"
+    },
+    {
+        "id": 8,
+        "cpf": 23312345678,
+        "nome": "Luo Binghe",
+        "sobrenome": "Pepino Rei",
+        "cidade": "Pico Qing Jing",
+        "pais": "Qingjing",
+        "link": "https://www.webnovel.com/book/the-scum-villain's-self-saving-system-(mo-xiang-tong-xiu)_26532893805406405/chapter-1_71223872787106193",
+        "imagem": "<img src='img/luobinghe.jpg' width='200px'>"
+    },
+    {
+        "id": 9,
+        "cpf": 22123456789,
+        "nome": "Mo Ran",
+        "sobrenome": "Mo Zongshi",
+        "cidade": "Pico Sisheng",
+        "pais": "Mo Jing",
+        "link": "https://erhabr.carrd.co/",
+        "imagem": "<img src='img/moran.jpg' width='200px'>"
+    },
+    {
+        "id": 10,
+        "cpf": 32123456789,
+        "nome": "Chu WanNing",
+        "sobrenome": "Yuheng do Céu Noturno",
+        "cidade": "Pico Sisheng",
+        "pais": "Mo Jing",
+        "link": "https://erhabr.carrd.co/",
+        "imagem": "<img src='img/chuwanning.jpg' width='200px'>"
+    },
+    {
+        "id": 11,
+        "cpf": 41234567890,
+        "nome": "Durin",
+        "sobrenome": "Mo Zongshi",
+        "cidade": "Pico Sisheng",
+        "pais": "Teyvat",
+        "link": "https://game8.co/games/Genshin-Impact/archives/462478",
+        "imagem": "<img src='img/durin.jpg' width='200px'>"
+    },
+    {
+        "id": 12,
+        "cpf": 40012345678,
+        "nome": "Scara",
+        "sobrenome": "The Balladeer",
+        "cidade": "Sumeru",
+        "pais": "Teyvat",
+        "link": "https://www.hoyolab.com/article/9361726",
+        "imagem": "<img src='img/scara.jpg' width='200px'>"
+    },
+    {
+        "id": 13,
+        "cpf": 51234567890,
+        "nome": "Kazuha",
+        "sobrenome": "Kaedehara",
+        "cidade": "Inazuma",
+        "pais": "Teyvat",
+        "link": "https://genshinnrambles.tumblr.com/post/669168679594934272/character-analysis-kazuhas-melancholy",
+        "imagem": "<img src='img/kazuha.jpg' width='200px'>"
+    }
+]
