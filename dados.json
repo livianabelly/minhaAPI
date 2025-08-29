@@ -103,8 +103,8 @@
         "id": 11,
         "cpf": 41234567890,
         "nome": "Durin",
-        "sobrenome": "Mo Zongshi",
-        "cidade": "Pico Sisheng",
+        "sobrenome": "Durinzinho",
+        "cidade": "Sumeru",
         "pais": "Teyvat",
         "link": "https://game8.co/games/Genshin-Impact/archives/462478",
         "imagem": "<img src='img/durin.jpg' width='200px'>"
@@ -129,4 +129,5 @@
         "link": "https://genshinnrambles.tumblr.com/post/669168679594934272/character-analysis-kazuhas-melancholy",
         "imagem": "<img src='img/kazuha.jpg' width='200px'>"
     }
+
 ]
